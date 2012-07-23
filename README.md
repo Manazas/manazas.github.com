@@ -1,2 +1,0 @@
-manazas.github.com
-==================
